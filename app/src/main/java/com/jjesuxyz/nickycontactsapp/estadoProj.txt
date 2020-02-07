@@ -1,0 +1,24 @@
+
+
+*************************************************
+12/29/2019
+seria cuestion de como manejar cuando faltan numeros o cuando son demasiados
+numeros. como avisarle al usuario de ese problema.
+ejemplo: (123) 456 789      too short
+ejemplo: 123 456 7890000    too large
+Ahora solo agarra los 10 primeros y son los que guarda en la db. Si son menos
+10 digitos no inserta el numero en la databse cuando se esta creando un
+contacto nuevo.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Esto no aplica cuando se hace una llamada todavia no se implementa que hacer
+en esos casos.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+*******************************************************************************
+
+Ver como detectar cuando llega una llamada para ponerla en la tabla de logs
+
+*******************************************************************************
+
+

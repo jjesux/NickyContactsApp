@@ -1,0 +1,23 @@
+
+
+Tabs
+0				1		2		3
+-------------------------------------
+List    || Add	|| Dial	|| History  |
+-------------------------------------
+
+*******************************************************************************
+
+Database Tables
+
+Contact List Table
+-----------------------------------------
+| _ID   | Contact Name  | Phone Number  |
+-----------------------------------------
+
+Phone Call Logs Table
+--------------------------------------------------------------------
+| Log_ID    | User Calling | Date/Time of the call | Phone Number  |
+--------------------------------------------------------------------
+These calumn names are the real names of the columns. They are just a description
+of the columns in the database tables.

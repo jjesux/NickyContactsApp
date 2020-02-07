@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NickyContactsApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_log_hist">Lista de Llamadas Hechas-Recividas</string>
+
+
+
+    <string name="tab_contact_lit">List</string>
+    <string name="tab_add">Add</string>
+    <string name="tab_dial">Dial</string>
+    <string name="tab_history">History</string>
+
+
+    <string name="str_add_ctc">Agregar Contacto Nuevo</string>
+    <string name="str_edit_ctc">Editar Contacto Existented</string>
+    <string name="txtvw_nombre_contact">Nombre De Contacto</string>
+    <string name="str_phone_number">Numero De Telefono</string>
+    <string name="str_save_phone">Guardar Numero</string>
+    <string name="btn_str_cancelar">Cancelar</string>
+
+    <string name="str_btn_make_call">Make a Call</string>
+    <string name="str_frag_dial_label">About To Call :: </string>
+
+    <!--    Fragment Contact list data  -->
+    <string name="str_ctclist_label">Lista De Contactos</string>
+    <string name="str_search">Buscar Contacto</string>
+    <string name="str_person_to_call">Unknown</string>
+
+    <string name="str_in_out_call">Out</string>
+
+</resources>
